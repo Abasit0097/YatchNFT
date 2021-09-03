@@ -1,28 +1,26 @@
 {
-    "NFT":[
+    "tokens": [
         {
-            "ID" : 1,
-            "Name" :"Serenity", 
-            "Type" :"Express Cruiser",
-            "HP" :"38 Knot Monster",
-            "Image URl" :"https://github.com/Abasit0097/YatchNFT/blob/main/1.jpg",
-            "BaseURI" :"https://my-json-server.typicode.com/Abasit0097/YatchNFT/blob/main/NFT/1"
+            "id": 0,
+            "description": "Jolteon Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/0.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/0",
+            "name": "Jolteon",
+			"level": "Stage 1",
+			"HP": "90",
+			"weapon1": "Electrigun",
+			"weapon2": "Pin Missile"
         },
         {
-            "ID" : 2,
-            "Name" :"My Day", 
-            "Type" :"Sports Cruiser",
-            "HP" :"10400",
-            "Image URl" :"https://github.com/Abasit0097/YatchNFT/blob/main/2.jpg",
-            "BaseURI" :"https://my-json-server.typicode.com/Abasit0097/YatchNFT/blob/main/NFT/2"
-        },
-        {
-            "ID" : 3,
-            "Name" :"Smerelda", 
-            "Type" :"Sedan Bridge",
-            "HP" :"12800 KTP",
-            "Image URl" :"https://github.com/Abasit0097/YatchNFT/blob/main/3.jpg",
-            "BaseURI" : "https://my-json-server.typicode.com/Abasit0097/YatchNFT/blob/main/NFT/3"
+            "id": 1,
+            "description": "Espeion Pokemon",
+            "image": "https://github.com/tarbusca/testNFT/blob/master/art/1.png",
+			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/1",
+            "name": "Espeon",
+			"level": "Stage 1",
+			"HP": "90",
+			"weapon1": "Solar Revelation",
+			"weapon2": "Psy Report"
         }
     ]
 }
