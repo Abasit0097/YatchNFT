@@ -1,0 +1,28 @@
+{
+    "NFT":[
+        {
+            "ID" : 1,
+            "Name" :"Serenity", 
+            "Type" :"Express Cruiser",
+            "HP" :"38 Knot Monster",
+            "Image URl" :,
+            "BaseURI" :
+        },
+        {
+            "ID" : 2,
+            "Name" :"My Day", 
+            "Type" :"Sports Cruiser",
+            "HP" :"10400",
+            "Image URl" :,
+            "BaseURI" :
+        },
+        {
+            "ID" : 3,
+            "Name" :"Smerelda", 
+            "Type" :"Sedan Bridge",
+            "HP" :"12800 KTP",
+            "Image URl" :,
+            "BaseURI" :
+        }
+    ]
+}
