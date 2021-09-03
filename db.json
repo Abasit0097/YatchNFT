@@ -4,7 +4,10 @@
             "id" : 1,
             "Name" :"Serenity", 
             "Type" :"Express Cruiser",
-            "HP" :"38 Knot Monster"
+            "HP" :"38 Knot Monster",
+            "Image URl" :"https://github.com/Abasit0097/YatchNFT/blob/main/1.jpg",
+            "baseURI" : "https://my-json-server.typicode.com/Abasit0097/YatchNFT/nfts/1"
+
         },
         {
             "id" : 2,
