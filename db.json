@@ -1,26 +1,22 @@
 {
-    "tokens": [
+    "nfts":[
         {
-            "id": 0,
-            "description": "Jolteon Pokemon",
-            "image": "https://github.com/tarbusca/testNFT/blob/master/art/0.png",
-			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/0",
-            "name": "Jolteon",
-			"level": "Stage 1",
-			"HP": "90",
-			"weapon1": "Electrigun",
-			"weapon2": "Pin Missile"
+            "id" : 1,
+            "Name" :"Serenity", 
+            "Type" :"Express Cruiser",
+            "HP" :"38 Knot Monster"
         },
         {
-            "id": 1,
-            "description": "Espeion Pokemon",
-            "image": "https://github.com/tarbusca/testNFT/blob/master/art/1.png",
-			"external_url":"https://my-json-server.typicode.com/tarbusca/testNFT/tokens/1",
-            "name": "Espeon",
-			"level": "Stage 1",
-			"HP": "90",
-			"weapon1": "Solar Revelation",
-			"weapon2": "Psy Report"
+            "id" : 2,
+            "Name" :"My Day", 
+            "Type" :"Sports Cruiser",
+            "HP" :"10400"
+        },
+        {
+            "id" : 3,
+            "Name" :"Smerelda", 
+            "Type" :"Sedan Bridge",
+            "HP" :"12800 KTP"
         }
     ]
 }
